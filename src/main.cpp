@@ -13,7 +13,6 @@ void setup() {
 }
 
 void loop() {
-  
 
   Serial.println("Test de la plage de mouvement (rapide) :");
   for (int pos = 0; pos <= 180; pos += 45) {
